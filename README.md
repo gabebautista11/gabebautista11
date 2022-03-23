@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, My name is Gabe Bautista
+
+Currently A Sophmore at the University of Utah
+
+I am currently working on a cs course review website as my personal side project. It is written with react.js and firebase
 
 <!--
 **gabebautista11/gabebautista11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
