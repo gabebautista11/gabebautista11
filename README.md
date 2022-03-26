@@ -6,7 +6,7 @@ I am currently working on a cs course review website as my personal side project
 
 I'm currently intrested in frontend and backend development.
 
-reach me by email @ gabe.bautista1115@gmail.com or message me on <a href="https://www.linkedin.com/in/gabriel-bautista-7b99201a2/">linkedin</a>
+reach me by email at gabe.bautista1115@gmail.com or message me on <a href="https://www.linkedin.com/in/gabriel-bautista-7b99201a2/">linkedin</a>
 
 Take a look at my projects on my github even though most of them were abandoned after a day of working on them.
 
