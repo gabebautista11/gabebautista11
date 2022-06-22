@@ -15,6 +15,8 @@ My favorite projects:
   <li><a href="https://github.com/gabebautista11/uofu-cs-class-reviews">CS Course Reviews</a> done with React.js and utitlizes firebase</li> 
   <li><a href="https://github.com/gabebautista11/TarkovChatBot">Tarkov Chat Bot</a> done in JavaScript </li>
 <ul>
+  
+  <h2>Current work in progress project <a href="https://github.com/gabebautista11/Maze-Solving-Alogrithm">Maze Solving Website</a></h2>
 <!--
 **gabebautista11/gabebautista11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
