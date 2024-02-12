@@ -9,5 +9,5 @@ Reach me by email at gabe.bautista1115@gmail.com or message me on <a href="https
 
 <h1>AvyViz</h1>
 This is a work in progress app where backcountry skiers, snowboarders, and explorers can safley create and find trails in the Utah backcountry. 
-<a href="[avyviz.com](https://avyviz.com/)https://avyviz.com/">Website</a>
+<a href="https://avyviz.com/">Website</a>
 
