@@ -2,7 +2,7 @@
 
 latest project: AvyViz
 
-Currently a Senior at the University of Utah
+Graduate from the University of Utah
 
 Reach me by email at gabe.bautista1115@gmail.com or message me on <a href="https://www.linkedin.com/in/gabriel-bautista-7b99201a2/">linkedin</a>
 
